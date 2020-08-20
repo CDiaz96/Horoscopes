@@ -1,0 +1,21 @@
+body{
+  background-image: url( space.jpg);
+}
+h1{
+  color: white;
+  font-family: cursive;
+  font-weight: lighter;
+  font-size: 60px;
+}
+#month, #day{
+padding: 1%;
+}
+button{
+  font-size: 15px;
+  padding: 1%;
+}
+p{
+  color: white;
+  font-size: 50px;
+  font-style: italic;
+}
